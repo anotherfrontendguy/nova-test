@@ -33,7 +33,7 @@ Run database migrations:
 php artisan migrate
 ```
 
-Create a nova user with
+Create a nova user with:
 
 ```sh
 php artisan nova:user
